@@ -1,6 +1,5 @@
 # Hand Gesture Recognition
 
-This project uses **MediaPipe** and **OpenCV** to track hand gestures in real-time and count the number of fingers raised using a webcam.
 
 ## Features
 - Real-time hand tracking with landmark detection.
